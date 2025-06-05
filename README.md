@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHE5bzNmMmN5bGNydjNqcDlhdnUzZ2N0ZmE5cDB2dWd6ZzN2cHNocyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkAZJAnrU/giphy.gif" width="250px" />
+  
   <h1>Olá, eu sou o Nicolas Souza! 👋</h1>
 </div>
 
@@ -61,6 +61,6 @@ Meu principal objetivo é conseguir uma **oportunidade como programador Java**. 
 *Estou aberto a novas oportunidades e conexões. Vamos conversar!*
 
 <div align="center"> 
-  <a href="https://linkedin.com/in/NicolasSouza21" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="[https://linkedin.com/in/](https://www.linkedin.com/in/nicolas-souza-015873357/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="mailto:nicolassenaikk@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
