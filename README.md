@@ -1,33 +1,33 @@
 <div align="center">
   
-  <h1>Olá, eu sou o Nicolas Souza! 👋</h1>
+  <h1>Hi, I'm Nicolas Souza! 👋</h1>
 </div>
 
-## 👨‍💻 Sobre Mim
+## 👨‍💻 About Me
 
-Sou um desenvolvedor Java em formação com uma base sólida em tecnologia, construída através do meu **curso técnico completo no SENAI** e, atualmente, pela graduação em **Ciência da Computação na UNIP**.
+I am a developing Java developer with a solid foundation in technology, built through my **completed technical course at SENAI** and currently pursuing a degree in **Computer Science at UNIP**.
 
-Minha paixão é resolver problemas e criar aplicações robustas e eficientes. Hoje, atuo como **Assistente de TI**, o que me proporciona experiência prática em infraestrutura e suporte, enquanto dedico meus estudos à linguagem Java.
+My passion is solving problems and creating robust and efficient applications. I currently work as an **IT Assistant**, where I gain valuable hands-on experience in infrastructure and support while dedicating my studies to the Java language.
 
-Meu principal objetivo é conseguir uma **oportunidade como programador Java**. Estou focado em aprofundar meus conhecimentos no ecossistema Java e, especialmente, em **JavaFX** para a criação de interfaces de usuário ricas e modernas.
+My main goal is to secure a **position as a Java programmer**. I am focused on deepening my knowledge of the Java ecosystem, especially **JavaFX** for creating rich and modern user interfaces.
 
-- 🌱 Atualmente, meu foco de aprendizado é: **JavaFX** e boas práticas de desenvolvimento com Java.
-- 🔭 Estou construindo projetos pessoais para aplicar meus conhecimentos e construir um portfólio sólido.
-- 👯 Busco colaborar em projetos open source para ganhar experiência prática e contribuir com a comunidade.
-- 📫 Como me encontrar: nicolassenaikk@gmail.com
+- 🌱 I’m currently focused on learning: **JavaFX** and best practices in Java development.
+- 🔭 I’m currently building personal projects to apply my knowledge and build a solid portfolio.
+- 👯 I’m looking to collaborate on open-source projects to gain practical experience and contribute to the community.
+- 📫 How to reach me: nicolassenaikk@gmail.com
 
 <br>
 
-## 🛠️ Habilidades & Ferramentas
+## 🛠️ Skills & Tools
 
 <div align="center">
-  <p><strong>Foco Principal:</strong></p>
+  <p><strong>Main Focus:</strong></p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaFX-007396?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
   
-  <p><strong>Ferramentas e Outras Tecnologias:</strong></p>
+  <p><strong>Tools and Other Technologies:</strong></p>
   <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
@@ -37,7 +37,7 @@ Meu principal objetivo é conseguir uma **oportunidade como programador Java**. 
 
 <br>
 
-## 🚀 Meus Projetos em Destaque
+## 🚀 My Featured Projects
 
 <div align="center">
   <a href="https://github.com/NicolasSouza21/JavaFX-Salao">
@@ -47,7 +47,7 @@ Meu principal objetivo é conseguir uma **oportunidade como programador Java**. 
 
 <br>
 
-## 📊 Minhas Estatísticas no GitHub
+## 📊 My GitHub Stats
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NicolasSouza21&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -56,9 +56,9 @@ Meu principal objetivo é conseguir uma **oportunidade como programador Java**. 
 
 <br>
 
-## 📬 Conecte-se Comigo
+## 📬 Connect with Me
 
-*Estou aberto a novas oportunidades e conexões. Vamos conversar!*
+*I'm open to new opportunities and connections. Let's talk!*
 
 <div align="center"> 
   <a href="https://www.linkedin.com/in/nicolas-souza-015873357/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
