@@ -43,8 +43,9 @@ My main goal is to secure a **position as a Java programmer**. I am focused on d
   <a href="https://github.com/NicolasSouza21/JavaFX-Salao">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NicolasSouza21&repo=JavaFX-Salao&theme=dracula&border_color=30A3DC" />
   </a>
-  
-  <a href="https://github.com/NicolasSouza21/JavaFX-Salao">
+</div>
+<div align = "center">
+<a href="https://github.com/NicolasSouza21/JavaFX-Salao">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NicolasSouza21&repo=Os-Manager-Bag&theme=dracula&border_color=30A3DC" />
   </a>
 </div>
